@@ -27,7 +27,7 @@ class _InputPageState extends State<InputPage> {
         child: Text('Body Text'),
       ),
       floatingActionButton: FloatingActionButton(
-        child: Icon(Icons.add),
+       
       ),
     );
   }
