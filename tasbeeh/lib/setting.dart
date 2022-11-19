@@ -11,7 +11,7 @@ class _SettingScreenState extends State<SettingScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("Setting Tasbeeh"),
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blue,
       ),
 
     );
